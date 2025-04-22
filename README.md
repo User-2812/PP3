@@ -114,7 +114,17 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
     <summary>Your SVG Code</summary>
     <code>
-    ......
+    <?xml version="1.0" encoding="UTF-8"?>
+<svg    xmlns="http://www.w3.org/2000/svg"
+        version="1.1"
+        with="800mm" height="700mm"
+        viewBox="-400 -300 800 600">
+<title>PP3 Task 1</title>
+<rect x="100" y="100" width="100" height="1" fill="blue" />
+<circle x="30" y="30" r="20" fill="red" />
+<rect x="50" y="10" width="50" height="50" />
+
+</svg>
     </code>
 </details>
 
@@ -126,12 +136,12 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-    ......
+    Mit # Wird eine "Überschrift" erstellt. Der Text wird größer und Fett geschrieben. 
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-    ......
+    Um kursiv zu schreiben, nutzt man _word_ und um Fett zu schreiben nutzt man **word**.
     </code>
 </details>
 <details>
