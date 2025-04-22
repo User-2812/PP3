@@ -147,7 +147,7 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    ......
+    Tabellen können mit "|" erstellt werden. Um eine Auflistung zu erstellen kann man die einzelnen Unterpunkte mit 1, 2,... beschriften.
     </code>
 </details>
 
@@ -270,7 +270,7 @@ If you are running in WSL, make sure to install the `w3m` browser before by exec
 **Answer the following questions:**
 <details>
   <summary>What happens if you exchange the <code>&lt;p&gt;&lt;/p&gt;</code> for <code>&lt;h1&gt;&lt;/h1&gt;</code>?</summary>
-  ...
+  Wird p zu h1 getauscht, wird Hello World Fett geschrieben.
 </details>
 
 <details>
